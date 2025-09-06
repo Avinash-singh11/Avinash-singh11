@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Avinash Singh  
 
 💻 **Computer Science Student** From SRMIST, KTR 
- 
 🌱 Exploring **AI/ML, Full Stack Development, and Cloud**  
 ⚡ Love solving problems, building impactful projects, and learning new tech  
 
@@ -15,7 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
 
 ---
 
