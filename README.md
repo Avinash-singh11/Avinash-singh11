@@ -23,9 +23,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negaa1210&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negaa1210&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Negaa1210&theme=tokyonight)  
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinash_singh11&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash_singh11&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash_singh11&theme=tokyonight)  
 
 ---
 
