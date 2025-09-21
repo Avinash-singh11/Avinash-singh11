@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Avinash Singh  
 
-💻 **Computer Scienc ** SDE 
+💻 **Computer Science** SDE 
 🌱 Exploring **AI/ML, Full Stack Development, and DSA**  
 ⚡ Love solving problems, building impactful projects, and learning new tech  
 
