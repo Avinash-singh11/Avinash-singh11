@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Avinash Singh  
 
 💻 **Computer Science Student** From SRMIST, KTR 
-🌱 Exploring **AI/ML, Full Stack Development, and Cloud**  
+🌱 Exploring **AI/ML, Full Stack Development, and DSA**  
 ⚡ Love solving problems, building impactful projects, and learning new tech  
 
 ---
@@ -38,4 +38,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK)  
-📫 Reach me at: **YOUR EMAIL**
+
