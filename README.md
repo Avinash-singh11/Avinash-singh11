@@ -2,7 +2,7 @@
 💻 **Computer Science**  
 👨‍💻 **Software Engineer**  
 🌱 **Exploring AI/ML, Full Stack Development, and DSA**  
-🛠️ **Shutters Engineer**
+
  
 ⚡ Love solving problems, building impactful projects, and learning new tech  
 
